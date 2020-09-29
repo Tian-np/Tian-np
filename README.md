@@ -3,6 +3,7 @@
 ## About Me
 - 😄 I'm Naphat Pornbunruang (Tian)
 - 🔭 I'm a 3rd Year undergraduate in Information Technology from King Mongkut's Institute of Technology Ladkrabang.
+- ⚡ Fun fact: I love all animals except monkey.
 
 #### Connect with me:
 [<img align="left" alt="Tian-np | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
