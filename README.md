@@ -10,6 +10,10 @@
 [<img align="left" alt="Tian-np | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tian-np | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
 [facebook]: https://www.facebook.com/TiannyCandle/
 [linkedin]: https://www.linkedin.com/in/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87-76013b170/
 [instagram]: https://instagram.com/tianny_np/
+
+
