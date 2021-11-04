@@ -2,7 +2,7 @@
 
 ## About Me
 - 😄 I'm Naphat Pornbunruang (Tian)
-- 🔭 I'm a 3rd Year undergraduate in Information Technology from King Mongkut's Institute of Technology Ladkrabang.
+- 🔭 I'm a 4th Year undergraduate in Information Technology from King Mongkut's Institute of Technology Ladkrabang.
 - ⚡ Fun fact: I love all animals except monkey.
 
 #### Connect with me:
